@@ -1,5 +1,8 @@
 # Graphic-Designing-Portfolio-
 Creative Graphic Design Portfolio | Logos • Social Media • Branding • AI Designs
+
+
+
 “This repository showcases my Graphic Design Portfolio, highlighting over 2 years of creative experience in designing modern, bold, and visually engaging content. My work focuses on building strong brand identities through strategic design, combining creativity with purpose.
 
 The portfolio includes a variety of projects such as logo design, social media creatives, brand identity kits, promotional posts, and AI-generated designs. Each project reflects a unique approach to storytelling, using eye-catching typography, balanced layouts, and trend-driven color palettes.
